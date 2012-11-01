@@ -1,0 +1,22 @@
+Auxiliary data files for Louhos / sorvi.
+
+All listed material has an open license. The license may vary
+according to the data source, however. Kindly see the license terms of
+the original data providers.
+
+Contact: http://louhos.github.com/contact.html
+
+* Map of Finland, limited by coastal region:
+  Modified from MML data (C) MML 2011.
+  Further details will be added later.
+  The files:
+  - fin_kuntajako_1milj_maa.zip  
+  - kuntarajat.maa.shp.rda
+
+* HRI aluejakokartat
+  Source: (C) HRI
+  - HRI.aluejakokartat.rda       
+
+* Translations
+  Term translations for sorvi
+  - translations.rda
